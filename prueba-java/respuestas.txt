@@ -1,0 +1,8 @@
+1-La estructura de datos que utilice mayormente para este problema son las listas, ya que
+es con lo que estoy mas familiarizado y ademas las listas tienen la ventaja de que 
+pueden contener cualquier tipo de objeto (como en este caso para listar Productos) y tambien
+permiten agregar, eliminar o modificar los elementos.
+
+2-Este algoritmo puede ser eficiente para ordenar listas pequeñas como las de este caso,
+pero en el caso de que las listas sean de mayor tamaño, podria no ser eficiente en terminos de tiempo. 
+Para poder mejorarlo habria que considerar otras formas para manejar los datos.
